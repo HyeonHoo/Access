@@ -1,4 +1,4 @@
-# Lanch Image
+# Launch Image
 ![Aceess_호텔관리프로그램](https://github.com/HyeonHoo/Access/assets/69030306/5bf7eac3-4ad3-48f0-9238-4a2594b65598)
 
 # 목적
